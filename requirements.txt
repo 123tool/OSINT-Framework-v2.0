@@ -1,0 +1,6 @@
+requests
+colorama
+instaloader
+phonenumbers
+rich
+python-dotenv
